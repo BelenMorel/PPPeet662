@@ -1,0 +1,206 @@
+body{
+    padding: 1px;
+
+}
+/* Encabezado superior*/
+h1 {
+    font-size: 38px;
+    margin-right: 10px;
+    font-weight: 850;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 25px;
+
+}
+
+  .imglogo{
+      padding-bottom: 5px;
+      padding-top: 1px;
+  }
+
+  /*segundo parte Encabezado */
+
+  .navbar-nav .nav-item:hover .nav-link {
+    background-color: #ffffffbe;
+    color: rgb(0, 0, 0);
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.iconinicio{
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.dropdown-item:hover {
+  background-color:  #27345d; 
+  color: #fff; 
+}
+
+
+ /* sección bienvenida*/
+
+.fondoBienv{
+  margin-top: 2px;
+  background-image: url(https://cdn.pixabay.com/photo/2016/10/22/17/46/mountains-1761292_640.jpg);
+  background-size: cover;
+  height: 490px;
+  align-items: center;
+
+ 
+}
+
+
+.cardBlur {
+  min-height: 300px; 
+  min-width: 300px;
+  border: 3px solid #fafafa14;
+  border-radius: 1rem;
+  padding: 20px; 
+  background: rgba(255, 255, 255, 0.168); 
+  backdrop-filter: blur(7px); 
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin: 30px;
+  
+}
+
+
+.pBienv{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+  color: #000000;
+  
+
+}
+
+.ttlBienv{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 40px;
+  color: #ffffff;
+}
+
+/* seccion novedades*/
+.txtNoved{
+  height: 55px;
+  width: 100%;
+  align-items: center;
+  color: #27345d;
+  position: relative;
+  text-align: center;
+  border-top: 3px solid #000000;
+  border-bottom: 3px solid #000000;
+  background: rgba(13, 12, 12, 0.166); 
+  backdrop-filter: blur(7px); 
+}
+
+.card{
+  border: 3px solid #404f808a;
+  
+}
+
+.tamaño-card-img {
+  height: 40%;
+  object-fit: cover;
+}
+
+/* pie pagina*/
+
+.piepag{
+ 
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    margin-bottom: 0;
+    width: 100%;
+    clear: both;
+    text-align: center;
+    padding: 6px;
+}
+
+.piepag p {
+    margin: 0;
+}
+
+/* mas informacion*/
+
+
+.carousel-item img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.imginfo{
+  width: 600px;
+  height: 300px;
+}
+
+.parrafohistoria{
+  text-align: justify;
+}
+
+.parrafohistoria h2{
+  text-align: justify;
+
+}
+
+p {
+  line-height: 1.5;
+}
+
+
+/*pagina de contacto*/
+.titulofooter{
+  font-size: 25px;
+}
+
+.cardcontactos{
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+
+
+.dtcont{
+  font-size: 20px;
+  color: #ffffff;
+}
+
+/*pagina de horarios*/
+
+.oculto {
+  display: none;
+}
+
+.botones-container {
+  display: flex;
+}
+
+.toggle-btn {
+  margin: 5px;
+}
+
+.infoHorabach .h2{
+  justify-content: center;
+}
+
+/*Horario de clases*/
+
+.p-textHorBach{
+  font-size: larger;
+  font-weight: 500;
+  margin: 0;
+}
+
+.botCursos {
+  background-color: #27345d;
+  border-color: #27345d;
+  color: white; 
+}

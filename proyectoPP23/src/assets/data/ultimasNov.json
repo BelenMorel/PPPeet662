@@ -1,0 +1,27 @@
+{
+    "titulo": "ultimas novedades", 
+  
+      "Novedades": [
+  
+  {
+    "foto": "https://cdn.pixabay.com/photo/2013/11/28/10/03/river-219972_640.jpg",
+    "titulo": "Título de la primera novedad",
+    "descripcion": "Descripción de la primera novedad"
+   
+  
+  },
+  
+  {
+    "foto": "https://cdn.pixabay.com/photo/2013/11/28/10/03/river-219972_640.jpg",
+    "titulo": "Título de la primera novedad",
+    "descripcion": "Descripción de la primera novedad"
+     },
+     
+  {
+    "foto": "https://cdn.pixabay.com/photo/2013/11/28/10/03/river-219972_640.jpg",
+    "titulo": "Título de la primera novedad",
+    "descripcion": "Descripción de la primera novedad"
+     }
+  
+  ]
+  }
