@@ -10,22 +10,25 @@
      
     <div class="container-fluid mt-3">
 
-<!--
-        <div class="row mb-4 justify-content-center" *ngFor="let novedades of newInfo">
+
+
+        <div class="row mb-4 justify-content-center" >
+            <!--aquie el @for-->
+            @for (novedad of ultimasnovedades; track $index) {
              <div class="col-12 col-md-4 col-lg-4 col-xl-4 d-flex align-items-center justify-content-center mb-3">
                 <div class="card m-3 shadow h-100" style="width: 25rem;">
-                    <img [src]="novedades.foto" class="card-img-top custom-card-img" alt="*imagen noticia">
+                    <img [src]="novedad.img" class="card-img-top custom-card-img" [alt]="novedad.descripciondeimagen">
                     <div class="card-body text-center d-flex flex-column align-items-center">
-                        <h5 class="card-title">{{novedades.titulo}}</h5>
-                        <p class="card-text">{{ novedades.descripcion }}</p>
-                        <a href="vistanoticia.html" class="btn btn-primary w-100">Ver más</a>
+                        <h5 class="card-title">{{novedad.titulo}}</h5>
+                        <p class="card-text">{{novedad.descripcion}}</p>
+                        <a class="btn btn-primary w-100" (click)="mostrarinfo()">Ver más</a>
                     </div>
                 </div>
-            </div>
-           
-        
+            </div>} @empty {
+                Cargando Novedades...
+            }
         </div>
-         -->
+        
     </div>
     
 </section>

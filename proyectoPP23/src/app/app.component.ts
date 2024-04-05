@@ -2,24 +2,24 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { HttpClientModule } from '@angular/common/http';
-import { HttpClient } from '@angular/common/http';
 
-import { BarranavComponent } from './barranav/barranav.component';
-import { InicioComponent } from './inicio/inicio.component';
-import { PiePaginaComponent } from './pie-pagina/pie-pagina.component';
-import { UltimasNovComponent } from './ultimas-nov/ultimas-nov.component';
+import { BarranavComponent } from './componentes/barranav/barranav.component';
+import { InicioComponent } from './componentes/inicio/inicio.component';
+import { PiePaginaComponent } from './componentes/pie-pagina/pie-pagina.component';
+import { UltimasNovComponent } from './componentes/ultimas-nov/ultimas-nov.component';
+import { TodasNovedadesComponent } from './componentes/todas-novedades/todas-novedades.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
   imports: [RouterOutlet,
-    InicioComponent,
-    BarranavComponent,
-    PiePaginaComponent,
-    UltimasNovComponent,
-    CommonModule,
+       CommonModule,
     HttpClientModule,
-    
+    BarranavComponent,
+    UltimasNovComponent,
+    InicioComponent,
+    PiePaginaComponent,
+    TodasNovedadesComponent
     
     
   ],

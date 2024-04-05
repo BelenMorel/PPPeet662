@@ -23,33 +23,36 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
+              
+                @if (btnInicio) {
+              <li class="nav-item" (click)="btnInicio = false">
+                <a class="nav-link" routerLink="/inicio" routerLinkActive="router-link-active" title="Inicio" >Inicio</a>
+              </li>
+              }
               <li class="nav-item">
-                <a class="nav-link"  routerLinkActive="router-link-active" title="Inicio">Inicio</a>
-            </li>
-              <li class="nav-item">
-                <a class="nav-link" routerLink="/firebase" title="Novedades">Novedades</a>
+                <a class="nav-link" routerLink="/todasNovedades" title="Novedades" (click)="btnInicio = true" >Novedades</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                  data-bs-toggle="dropdown" aria-expanded="false" title="Horarios de clases">
+                  data-bs-toggle="dropdown" aria-expanded="false" title="Horarios de clases" >
                   Horarios de Clases
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Tecnico">Modalidad
+                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Tecnico" (click)="btnInicio = true">Modalidad
                       Tecnico</a></li>
-                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Baachiller">Modalidad
+                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Baachiller" (click)="btnInicio = true">Modalidad
                     Bachiller</a></li>
                 </ul>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button"
-                  data-bs-toggle="dropdown" aria-expanded="false" title="Material de estudio">
+                  data-bs-toggle="dropdown" aria-expanded="false" title="Material de estudio" >
                   Material de estudio
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Tecnico">Modalidad
+                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Tecnico" (click)="btnInicio = true">Modalidad
                       Tecnico</a></li>
-                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Baachiller">Modalidad
+                  <li><a class="dropdown-item" routerLink="/firebase" title="Modalidad Baachiller" (click)="btnInicio = true">Modalidad
                     Bachiller</a></li>
                 </ul>
               </li>

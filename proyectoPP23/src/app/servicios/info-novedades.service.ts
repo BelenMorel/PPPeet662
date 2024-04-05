@@ -6,12 +6,13 @@ import { HttpClient } from '@angular/common/http';
   providedIn: 'root'
 })
 export class InfoNovedadesService {
-  constructor(private http: HttpClient){}
+
+  constructor(private http: HttpClient) {}
 
   ultNovedades!: Observable<any[]>;
   
   getdataultNov() {
-    this.ultNovedades = this.http.get<any[]>('assets/data/ultimasNov.json'); // Asigna la solicitud HTTP al Observable
+    this.ultNovedades = this.http.get<any[]>('/assets/data/ultimasNov.json'); // Asigna la solicitud HTTP al Observable
   }
   
   

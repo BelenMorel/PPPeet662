@@ -1,10 +1,8 @@
-{
-    "titulo": "ultimas novedades", 
-  
-      "Novedades": [
+[
   
   {
     "foto": "https://cdn.pixabay.com/photo/2013/11/28/10/03/river-219972_640.jpg",
+    "descripciondeimagen":"descripcion imagen",
     "titulo": "Título de la primera novedad",
     "descripcion": "Descripción de la primera novedad"
    
@@ -12,16 +10,18 @@
   },
   
   {
-    "foto": "https://cdn.pixabay.com/photo/2013/11/28/10/03/river-219972_640.jpg",
+    "foto": "/assets/imagenes/logo.png",
+    "descripciondeimagen":"descripcion imagen",
     "titulo": "Título de la primera novedad",
     "descripcion": "Descripción de la primera novedad"
      },
      
   {
     "foto": "https://cdn.pixabay.com/photo/2013/11/28/10/03/river-219972_640.jpg",
+    "descripciondeimagen":"descripcion imagen",
     "titulo": "Título de la primera novedad",
     "descripcion": "Descripción de la primera novedad"
      }
   
   ]
-  }
+  
