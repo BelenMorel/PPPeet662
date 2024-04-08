@@ -17,7 +17,7 @@ export class InicioComponent {
   infoBienvenida!: seccionBienv;
 
   ngOnInit(): void{
-    this.seccBienvenidaService.fechInfoBienv();
+    this.seccBienvenidaService.obtenerInfoBienv();
     this.seccBienvenidaService.infoBIenv.subscribe((data: seccionBienv)=>{
     this.infoBienvenida=data;
     })

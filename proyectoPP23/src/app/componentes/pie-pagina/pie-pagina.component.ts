@@ -20,7 +20,7 @@ export class PiePaginaComponent {
 
 
 ngOnInit(){
-  this.infoPiepagService.fechinfoPP().subscribe((data: piePag)=>{
+  this.infoPiepagService.obtenerinfoPP().subscribe((data: piePag)=>{
   this.infoPiePagina= data;
   })};
 

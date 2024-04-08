@@ -1,0 +1,2052 @@
+{
+    "cursostecnico": {
+      "primeroB": {
+        "descripcionimgPB": "Horarios de clases de 1° B de la modalidad Técnico",
+        "materias": {
+            "Biología":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Carpintería":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Taller de Electricidad I":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Metalmecánica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Dibujo Técnico":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]}
+      },
+      "primeroC": {
+        "descripcionimgPC": "Horarios de clases de 1° C de la modalidad Técnico",
+        "materias": {
+            "Biología":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Carpintería":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Taller de Electricidad I":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Metalmecánica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Dibujo Técnico":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+
+      },
+      "primeroE": {
+        "descripcionimgPE": "Horarios de clases de 1° E de la modalidad Técnico",
+        "materias": {
+            "Biología":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Carpintería":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Taller de Electricidad I":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Metalmecánica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Dibujo Técnico":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+      }
+      },
+      "segundoA": {
+        "descripcionimgSA": "Horarios de clases de 2° A de la modalidad Técnico",
+        "materias": {
+            "Artes Visuales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Dibujo Técnico":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisico Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Formación Ética":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+             }
+            ],
+            "Taller de Electricidad II":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Informatica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Metalmecánica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "segundoC": {
+        "descripcionimgSC": "Horarios de clases de 2° C de la modalidad Técnico",
+        "materias": {
+            "Artes Visuales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Dibujo Técnico":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisico Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Formación Ética":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Taller de Electricidad II":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Informatica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Metalmecánica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "terceroC": {
+        "descripcionimgTC": "Horarios de clases de 3° C de la modalidad Técnico",
+        "materias": {
+            "Conocimiento de los Materiales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archo":""
+
+                
+            }
+            ],
+            "Formación Ética":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archi":""
+
+                
+            }
+            ],
+            "Representación Grafica e Interpretacion de Planos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Mecanica I":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Taller de Electricidad III":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "terceroD": {
+        "descripcionimgTD": "Horarios de clases de 3° D de la modalidad Técnico",
+        "materias": {
+            "Conocimiento de los Materiales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archo":""
+
+                
+            }
+            ],
+            "Formación Ética":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archi":""
+
+                
+            }
+            ],
+            "Representación Grafica e Interpretacion de Planos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Mecanica I":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Taller de Electricidad III":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "cuartoC": {
+        "descripcionimgCC": "Horarios de clases de 4° C de la modalidad Técnico",
+        "materias": {
+            "Formación Ética":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Gestión y Comercializacióon":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Introducción a los circuitos electricos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Laboratorio de ensayos de materiales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Mecanica Técnica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Representación Grafica e Interpretacion de Planos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Mecanica II":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Mediciones Electricas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+
+        }
+      },
+      "cuartoD": {
+        "descripcionimgCD": "Horarios de clases de 4° D de la modalidad Técnico",
+        "materias": {
+            "Formación Ética":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Gestión y Comercializacióon":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Introducción a los circuitos electricos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Laboratorio de ensayos de materiales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Mecanica Técnica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Representación Grafica e Interpretacion de Planos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Mecanica II":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Mediciones Electricas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "quintoU": {
+        "descripcionimgQU": "Horarios de clases de 5° U de la modalidad Técnico",
+        "materias": {
+            "Electronica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Elementos de Transporte y Transmicion Técnica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Formación Ética":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Maquina y Comando E.":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Organización Industrial":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Proceso de Fabricación":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Automatización":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller CNC - CAD CAM":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Termodinamica y Maquinas Termicas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "sextoU": {
+        "descripcionimgSU": "Horarios de clases de 6° U de la modalidad Técnico",
+        "materias": {
+            "Economia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Formación Ética y Profesional":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Inglés Técnico":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Instalaciones Electricas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Mantenimiento y Ensayo de equipos Electromecanicos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Marco Juridico":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Practicas Profesionalizantes":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Proyecto y Diseño de Dispositivos Electronicos":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Sistema de Control":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Automatización":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller CNC - CAD CAM":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      }
+    },
+    "cursosbachiller": {
+      "primeroA": {
+        "descripcionimgPA": "Horarios de clases de 1° A de la modalidad Bachiller",
+        "materias": {
+            "Biología":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Formación Ética y ciudadana":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Seminario: Ciencias Sociales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Economía y Gestión":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+      
+        }
+      },
+      "primeroD": {
+        "descripcionimPDg": "Horarios de clases de 1° D de la modalidad Bachiller",
+        "materias": {
+            "Biología":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Formación Ética y ciudadana":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Seminario: Ciencias Sociales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Economía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "segundoB": {
+        "descripcionimgSB": "Horarios de clases de 2° B de la modalidad Bachiller",
+        "materias": {
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisico Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Formación Ética y ciudadana":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Seminario: Ciencias Sociales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Economía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "segundoD": {
+        "descripcionimgSD": "Horarios de clases de 2° D de la modalidad Bachiller",
+        "materias": {
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Tecnológica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisico Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Formación Ética y ciudadana":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Seminario: Ciencias Sociales":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Taller de Economía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "terceroA": {
+        "descripcionimgTA": "Horarios de clases de 3° A de la modalidad Bachiller",
+        "materias": {
+            "Administración":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Biología":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Construccion de Ciudadania e Identidad":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archo":""
+
+                
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ]
+        }
+      },
+      "terceroB": {
+        "descripcionimgTB": "Horarios de clases de 3° B de la modalidad Bachiller",
+        "materias": {
+            "Administración":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Artística (Música)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Biología":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archiv0":""
+
+                
+            }
+            ],
+            "Construccion de Ciudadania e Identidad":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Fisica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archo":""
+
+                
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ]
+        }
+      },
+      "cuartoA": {
+        "descripcionimgCA": "Horarios de clases de 4° A de la modalidad Bachiller",
+        "materias": {
+            "Administración II":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Derecho y Consruccion Ciudadana":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Economia I":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archi":""
+
+                
+            }
+            ],
+            "Sistema deInformación Contable":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "cuartoB": {
+        "descripcionimgCD": "Horarios de clases de 4° D de la modalidad Bachiller",
+        "materias": {
+            "Administración II":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Derecho y Consruccion Ciudadana":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Economia I":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Educación Física":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Geografía":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Historia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Quimica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archi":""
+
+                
+            }
+            ],
+            "Sistema deInformación Contable":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ]
+        }
+      },
+      "quintoU": {
+        "descripcionimgQU": "Horarios de clases de 5° de la modalidad Bachiller",
+        "materias": {
+            "Administración":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua Extranjera (Inglés)":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Construccion de Ciudadano y Participación":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Lengua y Literatura":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Derecho":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archi":""
+
+                
+            }
+            ],
+            "Matemáticas":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Economia II":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ],
+            "Orientación en Cont Laboral":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Educación Fisica":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Sistema deInformación Contable":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""               
+
+            }
+            ],
+            "Filosofia":[
+                {
+                "imgMaterial":"",
+                "tituloMaterial":"",
+                "archivo":""
+
+                
+            }
+            ]
+        }
+      }
+    }
+  }
+  

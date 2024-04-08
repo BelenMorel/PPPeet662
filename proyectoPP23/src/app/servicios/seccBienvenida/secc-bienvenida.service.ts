@@ -10,7 +10,7 @@ export class SeccBienvenidaService {
 
   infoBIenv: any;
 
- public fechInfoBienv(){
+ public obtenerInfoBienv(){
     this.infoBIenv = this.http.get('/assets/data/seccionBienvenida.json');
   }
 

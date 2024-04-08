@@ -18,7 +18,7 @@ export class HorariosBachillerComponent {
   descAMostrar: any;// guarda ls descripciones de cada img segun lo que se selecciono
 
   ngOnInit(): void {
-  this.horariosService.fechInfoHorarios();
+  this.horariosService.obtenerInfoHorarios();
   this.horariosService.horarios.subscribe((data: any)=>{
   this.horariosBach=data;
   console.log(this.horariosBach)

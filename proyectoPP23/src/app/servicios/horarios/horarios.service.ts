@@ -10,7 +10,7 @@ export class HorariosService {
 
 horarios: any;
 
-fechInfoHorarios(){
+obtenerInfoHorarios(){
   this.horarios= this.http.get('/assets/data/horarios.json');
 }
 

@@ -10,7 +10,7 @@ export class NovedadesService {
   constructor(private http: HttpClient) { }
 
 
-  public fechInfoNovedades(): Observable<Novedades> {
+  public obtenerInfoNovedades(): Observable<Novedades> {
     return this.http.get<Novedades>('/assets/data/todasNovedades.json');
   }
 

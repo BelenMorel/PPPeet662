@@ -11,7 +11,7 @@ export class InfoPiepagService {
   constructor(private http: HttpClient) { }
 
 
-   public fechinfoPP(): Observable<piePag>{
+   public obtenerinfoPP(): Observable<piePag>{
      return this.http.get<piePag>('/assets/data/piePagina.json');
   }
 }

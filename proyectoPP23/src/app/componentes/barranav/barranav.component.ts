@@ -18,4 +18,6 @@ import { UltimasNovComponent } from '../ultimas-nov/ultimas-nov.component';
 export class BarranavComponent {
   btnInicio: boolean= false;
 
+  
+   
 }

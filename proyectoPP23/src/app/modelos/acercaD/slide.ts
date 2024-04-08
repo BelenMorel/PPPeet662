@@ -1,4 +1,4 @@
-export interface acercad{
+export interface slide{
     imagen: string,
     descripcionimg: string,
     titulo: string,

@@ -4,5 +4,7 @@ export interface Novedad{
     titulo:String,
     descripcionNov:String,
     fecha:String,
+    contenida: string,
+    autor:string,
 
 }

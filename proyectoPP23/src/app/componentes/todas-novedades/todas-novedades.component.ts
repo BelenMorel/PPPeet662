@@ -17,7 +17,7 @@ export class TodasNovedadesComponent {
   todasnovedades!: Novedades;
 
   ngOnInit(): void{
-    this.novedadesService.fechInfoNovedades().subscribe((data: Novedades)=>{
+    this.novedadesService.obtenerInfoNovedades().subscribe((data: Novedades)=>{
       this.todasnovedades=data;
       console.log(this.todasnovedades)
     })
