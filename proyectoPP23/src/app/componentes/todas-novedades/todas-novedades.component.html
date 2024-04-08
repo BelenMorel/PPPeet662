@@ -1,25 +1,25 @@
-<p>todas-novedades works!</p>
-
 
 <main>
-    @for (novedad of todasNovedades; track $index) {
-    <section class="noticias" id="noticias">
-      <div class="card mx-3 my-3" title="Novedad">
-          <div class="row g-0 justify-content-center justify-content-sm-between">
-              <div class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0">
-                  <img [src]="novedad.imagen" class="img-fluid rounded-center" [alt]="novedad.descripcionImagen" style="width: 400px; height: 250px;">
-              </div>
-              <div class="col-md-8 d-flex flex-column align-items-center align-items-sm-start">
-                <div class="card-body text-center text-sm-start">
-                  <h2 class="ttlnoticia">{{novedad.titulo}}</h2>
-                      <p class="card-text">{{novedad.descripcionNov}}</p>
-                      <p class="card-text"><small class="text-muted">{{novedad.fecha}}</small></p>
-                      <div class="card-footer d-flex  justify-content-sm-end">
-                        <a href="vistanoticia.html" class="btn btn-primary btn-lg" title="Ver más">Ver más</a>
-                      </div>                 
-                  </div>
-              </div>
-          </div>
-      </div>
-  </section>}
-</main>
+    @for (novedad of todasnovedades.todasNov; track $index) 
+    {
+      <section class="noticias" id="noticias">
+        <div class="card mx-3 my-3" title="Novedad">
+            <div class="row g-0 justify-content-center justify-content-sm-between">
+                <div class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0">
+                    <img [src]="novedad.imagen" class="img-fluid rounded-center" [alt]="novedad.descripcionImagen" style="width: 400px; height: 250px;">
+                </div>
+                <div class="col-md-8 d-flex flex-column align-items-center align-items-sm-start">
+                  <div class="card-body text-center text-sm-start">
+                    <h2 class="ttlnoticia">{{novedad.titulo}}</h2>
+                        <p class="card-text">{{novedad.descripcionNov}}</p>
+                        <p class="card-text"><small class="text-muted">{{novedad.fecha}}</small></p>
+                        <div class="card-footer d-flex  justify-content-end">
+                          <a href="vistanoticia.html" class="btn btn-primary btn-lg" title="Ver más">Ver más</a>
+                        </div>                 
+                    </div>
+                </div>
+            </div>
+        </div>
+      </section>
+    }
+  </main>

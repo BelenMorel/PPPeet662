@@ -1,0 +1,42 @@
+              
+<div class="container" style="margin-top: 20px;">
+    <div class="d-flex align-items-center mb-3">
+        <p class="p-textHorBach">Seleccione su año de cursado:</p>
+        <div class="dropdown ms-3">
+            <a class="nav-link dropdown-toggle btndesc" href="#" id="navbarDropdownMenuLink" role="button"
+            data-bs-toggle="dropdown" aria-expanded="false" title="Cursos Tecnico"
+            style="background-color: #3D5396; color: white;">
+            cursos
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li><a class="dropdown-item" (click)="seleccionarCurso('primeroB')">1° B</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('primeroC')">1° C</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('primeroE')">1° E</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('segundoA')">2° A</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('segundoC')">2° C</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('terceroC')">3° C</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('terceroD')">3° D</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('cuartoC')">4° C</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('cuartoD')">4° D</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('quintoU')">5° U</a></li>
+            <li><a class="dropdown-item" (click)="seleccionarCurso('sextoU')">6° U</a></li>
+            </ul>
+        </div>
+    </div>
+
+
+    <div id="pdfContent1b" class="info-content card" style="display: block;">
+        <div class="card-body d-flex flex-column">
+        <h5 class="card-title txtHb"> {{descAMostrar}}</h5>
+        <img class="imghorario col-12" [src]="imgAMostrar" [alt]="descAMostrar">
+        <br>
+         <div class="d-flex justify-content-end">
+            <a [href]="imgAMostrar" [download]="descAMostrar"
+            class="btndesc btn btn-primary mt-2" style="background-color: #3D5396;">Descargar Imagen</a>
+         </div>
+        </div>
+    </div>
+   
+</div>
+ 
+    

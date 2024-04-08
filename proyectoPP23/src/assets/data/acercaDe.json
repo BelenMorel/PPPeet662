@@ -1,0 +1,23 @@
+{
+    "carouselAcercaDE":
+    [
+    {"imagen":"https://media.istockphoto.com/id/1389125114/es/foto/senderos-ligeros-en-british-countryside-road-peak-district-reino-unido.webp?b=1&s=612x612&w=0&k=20&c=uEdu1eWpyH9uI-BnP9eU29GUucOTTsNOnjI9I-R_XCs=",
+    "descripcionimg":"imagen ilustrativa",
+    "titulo":"titulo de la primera diapositiva",
+    "descripcion":"descripcion de la primera diapositiva"
+        
+    },
+    {"imagen":"https://media.istockphoto.com/id/1389125114/es/foto/senderos-ligeros-en-british-countryside-road-peak-district-reino-unido.webp?b=1&s=612x612&w=0&k=20&c=uEdu1eWpyH9uI-BnP9eU29GUucOTTsNOnjI9I-R_XCs=",
+    "descripcionimg":"imagen ilustrativa",
+    "titulo":"titulo de la segunda diapositiva",
+    "descripcion":"descripcion de la segunda diapositiva"
+        
+    },
+    {"imagen":"https://media.istockphoto.com/id/1389125114/es/foto/senderos-ligeros-en-british-countryside-road-peak-district-reino-unido.webp?b=1&s=612x612&w=0&k=20&c=uEdu1eWpyH9uI-BnP9eU29GUucOTTsNOnjI9I-R_XCs=",
+    "descripcionimg":"imagen ilustrativa",
+    "titulo":"titulo de la tercera diapositiva",
+    "descripcion":"descripcion de la tercera diapositiva"
+    
+    }
+    ]
+}

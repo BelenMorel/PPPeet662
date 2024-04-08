@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { InfoNovedadesService } from '../../servicios/info-novedades.service';
-import { OnInit } from '@angular/core';
+import { Novedades } from '../../modelos/Novedades/Novedades';
+import { NovedadesService } from '../../servicios/novedades/novedades.service';
 
 @Component({
   selector: 'app-ultimas-nov',
@@ -13,19 +13,17 @@ import { OnInit } from '@angular/core';
   styleUrl: './ultimas-nov.component.css'
 })
 export class UltimasNovComponent {
+  
+  constructor(private novedadesService: NovedadesService){}
 
-constructor(private infoNovedadesService: InfoNovedadesService){}
+  ultimasnovedades!: Novedades;
 
- ultimasnovedades: any []=[];//datos del json ultimmasnov
- 
- mostrarinfo(){
-  console.log(this.ultimasnovedades)
- }
+  ngOnInit(): void{
+    this.novedadesService.fechInfoNovedades().subscribe((data: Novedades)=>{
+      this.ultimasnovedades=data;
+      console.log(this.ultimasnovedades)
+    })
+  }
 
- 
- ngOnInit(): void {   
-  this.infoNovedadesService.getdataultNov();
-  this.infoNovedadesService.ultNovedades.subscribe((data: any[]) => {
-  this.ultimasnovedades = data; })};
 
 }

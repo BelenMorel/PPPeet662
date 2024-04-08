@@ -4,14 +4,14 @@ import { Injectable } from '@angular/core';
 @Injectable({
   providedIn: 'root'
 })
-export class SeccBienvenidaService {
+export class HorariosService {
 
   constructor(private http: HttpClient) { }
 
-  infoBIenv: any;
+horarios: any;
 
- public fechInfoBienv(){
-    this.infoBIenv = this.http.get('/assets/data/seccionBienvenida.json');
-  }
+fechInfoHorarios(){
+  this.horarios= this.http.get('/assets/data/horarios.json');
+}
 
 }

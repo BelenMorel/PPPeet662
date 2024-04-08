@@ -8,6 +8,9 @@ import { InicioComponent } from './componentes/inicio/inicio.component';
 import { PiePaginaComponent } from './componentes/pie-pagina/pie-pagina.component';
 import { UltimasNovComponent } from './componentes/ultimas-nov/ultimas-nov.component';
 import { TodasNovedadesComponent } from './componentes/todas-novedades/todas-novedades.component';
+import { HorariosTencnicoComponent } from './componentes/horarios-tencnico/horarios-tencnico.component';
+import { HorariosBachillerComponent } from './componentes/horarios-bachiller/horarios-bachiller.component';
+import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
 
 @Component({
   selector: 'app-root',
@@ -19,7 +22,10 @@ import { TodasNovedadesComponent } from './componentes/todas-novedades/todas-nov
     UltimasNovComponent,
     InicioComponent,
     PiePaginaComponent,
-    TodasNovedadesComponent
+    TodasNovedadesComponent,
+    HorariosTencnicoComponent,
+    HorariosBachillerComponent,
+    AcercaDeComponent,
     
     
   ],

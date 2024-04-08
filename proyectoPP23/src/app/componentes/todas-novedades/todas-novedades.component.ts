@@ -1,9 +1,8 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
-import { TodasNovService } from '../../servicios/todNovedades/todas-nov.service';
+import { NovedadesService } from '../../servicios/novedades/novedades.service';
 import { OnInit } from '@angular/core';
-
-
+import { Novedades } from '../../modelos/Novedades/Novedades';
 @Component({
   selector: 'app-todas-novedades',
   standalone: true,
@@ -12,17 +11,18 @@ import { OnInit } from '@angular/core';
   styleUrl: './todas-novedades.component.css'
 })
 export class TodasNovedadesComponent {
-  constructor(private todasNovService: TodasNovService){
-  }
 
-  todasNovedades: any[]=[];
+  constructor(private novedadesService: NovedadesService){}
+
+  todasnovedades!: Novedades;
 
   ngOnInit(): void{
-    this.todasNovService.fechDatosTnov();
-    this.todasNovService.tNovedades.subscribe((data: any[]) =>{
-    this.todasNovedades=data;    
-    console.log(this.todasNovedades);
+    this.novedadesService.fechInfoNovedades().subscribe((data: Novedades)=>{
+      this.todasnovedades=data;
+      console.log(this.todasnovedades)
+    })
+  }
 
-    })};
 
+  
 }

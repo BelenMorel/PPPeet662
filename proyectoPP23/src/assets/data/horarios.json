@@ -1,0 +1,48 @@
+{
+    "cursostecnico": {
+        "primeroB": " IMAGEN 1A ",
+        "descripcionimgPB":"Horarios de clases de 1° B de la modalidad Técnico",
+        "primeroC": " ",
+        "descripcionimgPC":"Horarios de clases de 1° C de la modalidad Técnico",
+        "primeroE": " ",
+        "descripcionimgPE":"Horarios de clases de 1° E de la modalidad Técnico",
+        "segundoA": " ",
+        "descripcionimgSA":"Horarios de clases de 2° A de la modalidad Técnico",
+        "segundoC": " ",
+        "descripcionimgSC":"Horarios de clases de 2° C de la modalidad Técnico",
+        "terceroC": " ",
+        "descripcionimgTC":"Horarios de clases de 3° C de la modalidad Técnico",
+        "terceroD": " ",
+        "descripcionimgTD":"Horarios de clases de 3° D de la modalidad Técnico",
+        "cuartoC": " ",
+        "descripcionimgCC":"Horarios de clases de 4° C de la modalidad Técnico",
+        "cuartoD": " ",
+        "descripcionimgCD":"Horarios de clases de 4° D de la modalidad Técnico",
+        "quintoU": " ",
+        "descripcionimgQU":"Horarios de clases de 5° U de la modalidad Técnico",
+        "sextoU": " ",
+        "descripcionimgSU":"Horarios de clases de 6° U de la modalidad Técnico"
+
+        
+    },
+    "cursosbachiller": {
+        "primeroA": " ",
+        "descripcionimgPA":"Horarios de clases de 1° A de la modalidad Bachiller",
+        "primeroD": " ",
+        "descripcionimPDg":"Horarios de clases de 1° D de la modalidad Bachiller",
+        "segundoB": " ",
+        "descripcionimgSB":"Horarios de clases de 2° B de la modalidad Bachiller",
+        "segundoD": " ",
+        "descripcionimgSD":"Horarios de clases de 2° D de la modalidad Bachiller",
+        "terceroA": " ",
+        "descripcionimgTA":"Horarios de clases de 3° A de la modalidad Bachiller",
+        "terceroB": " ",
+        "descripcionimgTB":"Horarios de clases de 3° B de la modalidad Bachiller",
+        "cuartoA": " ",
+        "descripcionimgCA":"Horarios de clases de 4° A de la modalidad Bachiller",
+        "cuartoB": " ",
+        "descripcionimgCD":"Horarios de clases de 4° D de la modalidad Bachiller",
+        "quintoU": " ",
+        "descripcionimgQU":"Horarios de clases de 5° de la modalidad Bachiller"
+    }
+}

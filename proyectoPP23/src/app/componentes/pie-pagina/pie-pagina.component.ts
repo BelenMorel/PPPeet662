@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { InfoPiepagService } from '../../servicios/infoPiePagina/info-piepag.service';
 import { OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { piePag } from '../../modelos/piePagina/piePag';
 
 @Component({
   selector: 'app-pie-pagina',
@@ -11,17 +12,15 @@ import { CommonModule } from '@angular/common';
   styleUrl: './pie-pagina.component.css'
 })
 export class PiePaginaComponent {
+  
   constructor(private infoPiepagService: InfoPiepagService ){
-    console.log(this.infoPiePagina)
   }
 
-  infoPiePagina: any;
-
+  infoPiePagina!: piePag;
 
 
 ngOnInit(){
-  this.infoPiepagService.fechinfoPP();
-  this.infoPiepagService.infoPP.subscribe((data: any)=>{
+  this.infoPiepagService.fechinfoPP().subscribe((data: piePag)=>{
   this.infoPiePagina= data;
   })};
 

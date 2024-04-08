@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { UltimasNovComponent } from '../ultimas-nov/ultimas-nov.component';
 import { CommonModule } from '@angular/common';
 import { SeccBienvenidaService } from '../../servicios/seccBienvenida/secc-bienvenida.service';
-import { OnInit } from '@angular/core';
+import { seccionBienv } from '../../modelos/seccionBienv/seccionBienv';
 
 @Component({
   selector: 'app-inicio',
@@ -14,13 +14,12 @@ import { OnInit } from '@angular/core';
 export class InicioComponent {
   constructor(private seccBienvenidaService:SeccBienvenidaService){}
 
-  infoBienvenida: any;
+  infoBienvenida!: seccionBienv;
 
   ngOnInit(): void{
     this.seccBienvenidaService.fechInfoBienv();
-    this.seccBienvenidaService.infoBIenv.subscribe((data: any)=>{
-      this.infoBienvenida=data;
-      console.log(this.infoBienvenida);
+    this.seccBienvenidaService.infoBIenv.subscribe((data: seccionBienv)=>{
+    this.infoBienvenida=data;
     })
   }
 
