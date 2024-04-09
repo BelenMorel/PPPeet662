@@ -5,7 +5,8 @@ import { TodasNovedadesComponent } from './componentes/todas-novedades/todas-nov
 import { HorariosTencnicoComponent } from './componentes/horarios-tencnico/horarios-tencnico.component';
 import { HorariosBachillerComponent } from './componentes/horarios-bachiller/horarios-bachiller.component';
 import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
-
+import { MatEstBachillerComponent } from './componentes/mat-est-bachiller/mat-est-bachiller.component';
+import { MatEstTecnicoComponent } from './componentes/mat-est-tecnico/mat-est-tecnico.component';
 
 export const routes: Routes = [
     {path: 'inicio', component: InicioComponent},
@@ -14,6 +15,8 @@ export const routes: Routes = [
     {path: 'horariosTecnico', component: HorariosTencnicoComponent},
     {path: 'horariosBachiller', component: HorariosBachillerComponent},
     {path: 'acercaDe', component: AcercaDeComponent},
+    {path: 'MaterialEstudioBachiller', component: MatEstBachillerComponent},
+    {path: 'MaterialEstudioTecnico', component: MatEstTecnicoComponent},
     {path:'**', pathMatch:'full', redirectTo: 'inicio'}
  
 ];

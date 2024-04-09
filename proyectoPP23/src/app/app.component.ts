@@ -11,6 +11,8 @@ import { TodasNovedadesComponent } from './componentes/todas-novedades/todas-nov
 import { HorariosTencnicoComponent } from './componentes/horarios-tencnico/horarios-tencnico.component';
 import { HorariosBachillerComponent } from './componentes/horarios-bachiller/horarios-bachiller.component';
 import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
+import { MatEstBachillerComponent } from './componentes/mat-est-bachiller/mat-est-bachiller.component';
+import { MatEstTecnicoComponent } from './componentes/mat-est-tecnico/mat-est-tecnico.component';
 
 @Component({
   selector: 'app-root',
@@ -25,6 +27,8 @@ import { AcercaDeComponent } from './componentes/acerca-de/acerca-de.component';
     TodasNovedadesComponent,
     HorariosTencnicoComponent,
     HorariosBachillerComponent,
+    MatEstBachillerComponent,
+    MatEstTecnicoComponent,
     AcercaDeComponent,
     
     
